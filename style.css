@@ -2,8 +2,8 @@ body {
     font-family: sans-serif;
     line-height: 1.5;
   
-    background-color: #f9f9f9;
-    color: #333333;
+    background-color: red;
+    color: #19f306;
   
     width: 980px;
     margin: 0 auto;
@@ -20,4 +20,10 @@ body {
   main > h2 {
     text-align: center;
     font-size: 25px;
+    color: red;
+  }
+
+  footer {
+      font-size: 10px;
+      text-align: center;
   }
